@@ -216,15 +216,16 @@ Lagos State University *(2024 - 2028)*
 ## 🌟 Featured Projects
 
 ### 🔹 [NoteApp](https://github.com/chukjosh/NoteApp) 
-- A modern lightweight note-taking application built with Java Swing 
+##### - A modern lightweight note-taking application built with Java Swing 
 
 ### 🔹 [IOS-and-Android-on-the-Web](https://github.com/chukjosh/IOS-and-Android-on-the-Web) 
-- A web-based simulation that lets you experience both iOS and Android interfaces directly in your browser. 
+##### - A web-based simulation that lets you experience both iOS and Android interfaces directly in your browser. 
 
 ### 🔹 [Todo](https://github.com/chukjosh/Todo) 
-- Simple web-based todo app for managing, creating, editing and deleting tasks. 
+##### - Simple web-based todo app for managing, creating, editing and deleting tasks. 
 
-<!-- ### [Portfolio Website](https://github.com/chukjosh/portfolio) Personal portfolio showcasing projects and skills built with React and Next.js. -->
+<!-- ### [Portfolio Website](https://github.com/chukjosh/portfolio) 
+#### - Personal portfolio showcasing projects and skills built with React and Next.js. -->
 
 ---
 
