@@ -194,14 +194,6 @@ Lagos State University *(2024 - 2028)*
 
 ---
 
-## 📊 GitHub Stats
-
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukjosh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukjosh&layout=compact&theme=radical&cache_seconds=3600)
-
----
-
 ## 🚀 Core Competencies
 
 - **Machine Learning & Deep Learning** | **Artificial Intelligence**
