@@ -196,6 +196,8 @@ Lagos State University *(2024 - 2028)*
 
 ## 📊 GitHub Stats
 
+![Joshua's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chukjosh&show_icons=true&theme=radical)
+
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukjosh&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukjosh&layout=compact&theme=radical)
