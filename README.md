@@ -236,4 +236,4 @@ Lagos State University *(2024 - 2028)*
 
 ---
 
-*Committed to the tech space through relentless learning and hands-on experience. Ready for new challenges and always excited to expand my knowledge.*
+*__Committed to the tech space through relentless learning and hands-on experience. Ready for new challenges and always excited to expand my knowledge.__*
