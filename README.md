@@ -151,7 +151,6 @@ Let's collaborate and bring your ideas to life!
 
 ### Design & Prototyping:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 **...and more**
@@ -237,4 +236,4 @@ Lagos State University *(2024 - 2028)*
 
 ---
 
-*"Committed to the tech space through relentless learning and hands-on experience. Ready for new challenges and always excited to expand my knowledge."*
+*__Committed to the tech space through relentless learning and hands-on experience. Ready for new challenges and always excited to expand my knowledge.__*
