@@ -2,7 +2,7 @@
 
 I'm a **Computer Scientist | AI & ML Software Engineer** based in Lagos State, Nigeria.
 
-Committed to the tech space through relentless learning and hands-on experience. With experience in **AI/ML Engineering, Full Stack Development, Web, Mobile and Desktop App Development**, I strive to build innovative solutions that help individuals, businesses, and companies grow. I've worked on projects in education, real estate, and spiritual community platforms.
+With experience in **AI/ML Engineering, Full Stack Development, Web, Mobile and Desktop App Development**, I strive to build innovative solutions that help individuals, businesses, and companies grow. I've worked on projects in education, real estate, and spiritual community platforms.
 
 Let's collaborate and bring your ideas to life!
 
@@ -13,50 +13,37 @@ Let's collaborate and bring your ideas to life!
 ## 🧰 Toolbox
 
 ### Programming Languages:
-Python • JavaScript • TypeScript • C • C++ • Java • Go • PHP • **...and more**
+Python • JavaScript • TypeScript • C • C++ • Java • Go • PHP
 
 ### AI & Machine Learning:
-TensorFlow • Keras • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • Jupyter • Google Colab • **...and more**
+TensorFlow • Keras • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • Jupyter • Google Colab
 
-### Automation & Tools:
-Selenium • Puppeteer • Apache Airflow • Zapier • **...and more**
+### Automation:
+Selenium • Puppeteer • Apache Airflow • Zapier
 
 ### Frontend Development:
-React • Next.js • Vite • Vue.js • Angular • HTML5 • CSS3 • TailwindCSS • Bootstrap • Sass • Material UI • **...and more**
+React • Next.js • Vite • Vue.js • Angular • HTML5 • CSS3 • TailwindCSS • Bootstrap • Sass • Material UI
 
 ### Backend Development:
-Node.js • Express.js • FastAPI • Django • Flask • Spring Boot • Yii • Laravel • GraphQL • REST API • **...and more**
+Node.js • Express.js • FastAPI • Django • Flask • Spring Boot • Yii • Laravel • GraphQL • REST API
 
 ### Mobile Development:
-React Native • Flutter • Cordova • Android • Kotlin • **...and more**
+React Native • Flutter • Cordova • Android • Kotlin
 
 ### Desktop Development:
-Electron • WxPython • Qt • **...and more**
+Electron • WxPython • Qt
 
 ### Database & Cloud:
-MySQL • PostgreSQL • MongoDB • SQLite • Redis • Firebase • AWS • Google Cloud • Heroku • **...and more**
+MySQL • PostgreSQL • MongoDB • SQLite • Redis • Firebase • AWS • Google Cloud • Heroku
 
 ### Data Science & Web Scraping:
-BeautifulSoup • Selenium • MechanicalSoup • Scrapy • **...and more**
-
-### IDEs & Code Editors:
-VS Code • PyCharm • Android Studio • IntelliJ IDEA • Eclipse • NetBeans • Code::Blocks • Sublime Text • Atom • **...and more**
+BeautifulSoup • Selenium • MechanicalSoup • Scrapy
 
 ### Version Control & Collaboration:
-Git • GitHub • GitLab • Bitbucket • **...and more**
+Git • GitHub • GitLab • Bitbucket
 
 ### DevOps & Tools:
-Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Insomnia • Swagger • Linux • Ubuntu • **...and more**
-
-### Design & Prototyping:
-Figma • Canva • **...and more**
-
----
-
-## 💡 Soft Skills
-
-`Problem Solving` • `Team Collaboration` • `Communication` • `Time Management`
-`Adaptability` • `Critical Thinking` • `Project Management` • `Leadership`
+Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Insomnia • Swagger • Linux • Ubuntu
 
 ---
 
