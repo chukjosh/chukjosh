@@ -2,7 +2,7 @@
 
 I'm a **Computer Scientist | AI & ML Software Engineer** based in Lagos State, Nigeria.
 
-With experience in **AI/ML Engineering, Full Stack Development, Web, Mobile and Desktop App Development**, I strive to build innovative solutions that help individuals, businesses, and companies grow. I've worked on projects in education, real estate, and spiritual community platforms.
+With experience in **AI/ML Engineering, Full Stack Development, Web, Mobile and Desktop App Development**, I strive to build innovative solutions that help individuals, businesses, and companies grow. I've worked on projects in education, real estate, B2B/B2C, finance, healthcare and spiritual community platforms.
 
 Let's collaborate and bring your ideas to life!
 
