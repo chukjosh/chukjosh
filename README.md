@@ -19,7 +19,7 @@ Python • JavaScript • TypeScript • C • C++ • Java • Go • PHP
 TensorFlow • Keras • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • Jupyter • Google Colab
 
 ### Automation:
-Selenium • Puppeteer • Apache Airflow • Zapier
+Selenium • Puppeteer • Apache Airflow • Zapier • n8n
 
 ### Frontend Development:
 React • Next.js • Vite • Vue.js • Angular • HTML5 • CSS3 • TailwindCSS • Bootstrap • Sass • Material UI
