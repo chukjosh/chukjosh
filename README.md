@@ -43,7 +43,7 @@ BeautifulSoup • Selenium • MechanicalSoup • Scrapy
 Git • GitHub • GitLab • Bitbucket
 
 ### DevOps & Tools:
-Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Insomnia • Swagger • Linux • Ubuntu
+Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Swagger • Linux • Ubuntu
 
 ---
 
