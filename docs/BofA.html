@@ -6,40 +6,40 @@
     <title>Joshua Chukwurah - Resume</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: Arial, sans-serif;
             line-height: 1.3;
             color: #333;
-            max-width: 850px;
+            max-width: 800px;
             margin: 0 auto;
-            padding: 15px;
-            font-size: 13px;
+            padding: 10px 30px;
+            font-size: 12px;
         }
         header {
             text-align: center;
-            border-bottom: 2px solid #2c3e50;
+            border-bottom: 1.5px solid #444;
+            padding-bottom: 5px;
             margin-bottom: 10px;
         }
-        h1 { margin: 0; font-size: 24px; color: #2c3e50; }
+        h1 { 
+            margin: 0 0 2px 0; 
+            font-size: 20px;
+        }
         h2 { 
-            color: #2c3e50; 
-            border-bottom: 1px solid #bdc3c7; 
-            margin: 10px 0 5px 0; 
-            font-size: 16px;
+            color: #444; 
+            border-bottom: 1px solid #ccc; 
+            padding-bottom: 2px; 
+            margin: 12px 0 6px 0; 
+            font-size: 14px;
             text-transform: uppercase;
         }
-        .contact-info { margin-bottom: 5px; font-size: 12px; }
-        .job-title { font-weight: bold; margin: 2px 0; }
-        .experience-item { margin-bottom: 8px; }
-        .company-header { display: flex; justify-content: space-between; font-weight: bold; }
-        ul { margin: 3px 0; padding-left: 18px; }
+        p { margin: 0 0 6px 0; }
+        .contact-info { font-size: 11px; margin-top: 2px; }
+        .job-title { font-weight: bold; font-style: italic; margin-bottom: 2px; }
+        .company-header { display: flex; justify-content: space-between; font-weight: bold; margin-top: 6px; }
+        ul { padding-left: 18px; margin: 4px 0; }
         li { margin-bottom: 2px; }
-        .skills-list { margin: 5px 0; }
-        p { margin: 4px 0; }
-        a { color: #2980b9; text-decoration: none; }
-        @media print {
-            body { padding: 0; }
-            @page { margin: 0.5cm; }
-        }
+        .experience-item { margin-bottom: 8px; }
+        a { color: #333; text-decoration: none; }
     </style>
 </head>
 <body>
@@ -55,75 +55,100 @@
     </header>
 
     <section>
-        <h2>Professional Summary</h2>
+        <h2>PROFESSIONAL SUMMARY [cite: 4]</h2>
         <p>
-            Computer Scientist and AI/ML Software Engineer with 4 years of hands-on experience building intelligent software systems across healthcare, fintech, edtech, and real estate[cite: 6]. Currently developing medical AI models and data pipelines at Privacure and training production ML systems at SianLabs[cite: 6, 7]. Pursuing a BASc in Computer Science at Lagos State University with a 4.65/5.0 CGPA[cite: 7].
+            Computer Scientist and AI/ML Software Engineer with 4 years of hands-on experience building intelligent software systems across healthcare, fintech, edtech, and real estate[cite: 6]. Currently developing medical AI models at Privacure and training production ML systems at SianLabs[cite: 7]. Pursuing a BASc in Computer Science at Lagos State University with a CGPA of 4.65/5.0[cite: 7]. 
         </p>
     </section>
 
     <section>
-        <h2>Professional Experience</h2>
+        <h2>PROFESSIONAL EXPERIENCE [cite: 7]</h2>
+
         <div class="experience-item">
-            <div class="company-header"><span>Privacure | AI Engineer</span><span>Oct 2025 – Present [cite: 7]</span></div>
+            <div class="company-header">
+                <span>Privacure</span>
+                <span>Oct 2025 – Present</span>
+            </div>
+            <p><i>Artificial Intelligence Engineer</i></p>
             <ul>
-                <li>Develop AI/ML models for medical applications across clinical use cases[cite: 7].</li>
-                <li>Build and maintain data pipelines for large-scale medical datasets[cite: 7].</li>
-                <li>Create optimized medical LLMs and AI agents while upholding ethical standards[cite: 7].</li>
+                <li>Develop and deploy AI/ML models for medical applications across multiple clinical use cases[cite: 7].</li>
+                <li>Build, integrate, and maintain data pipelines for large-scale medical datasets[cite: 7].</li>
+                <li>Create and optimize medical LLMs and AI agents; uphold ethical AI standards[cite: 7].</li>
             </ul>
         </div>
+
         <div class="experience-item">
-            <div class="company-header"><span>SianLabs | Machine Learning Engineer</span><span>Aug 2025 – Present [cite: 7]</span></div>
+            <div class="company-header">
+                <span>SianLabs</span>
+                <span>Aug 2025 – Present</span>
+            </div>
+            <p><i>Machine Learning Engineer</i></p>
             <ul>
-                <li>Train, evaluate, and optimize ML models for diverse business applications[cite: 7].</li>
+                <li>Train, evaluate, and optimize machine learning models for diverse business applications[cite: 7].</li>
                 <li>Integrate trained models into smart, production-ready software systems[cite: 7].</li>
             </ul>
         </div>
+
         <div class="experience-item">
-            <div class="company-header"><span>Bincom Dev Center | Python Developer (AI/ML)</span><span>Sep 2024 – Feb 2025 [cite: 7]</span></div>
+            <div class="company-header">
+                <span>Bincom Dev Center</span>
+                <span>Sep 2024 – Feb 2025</span>
+            </div>
+            <p><i>Python Developer, AI and ML</i></p>
             <ul>
-                <li>Applied Pandas, NumPy, and Matplotlib for large-scale data analysis[cite: 7].</li>
-                <li>Implemented ML and Deep Learning models using Keras and TensorFlow[cite: 7].</li>
+                <li>Applied Python (Pandas, NumPy, Matplotlib) for data manipulation and analysis at scale[cite: 7].</li>
+                <li>Implemented ML models including Logistic Regression, K-NN, and K-Means; built deep learning models with Keras[cite: 7].</li>
             </ul>
         </div>
+
         <div class="experience-item">
-            <div class="company-header"><span>Titacom Technology | Full Stack Developer</span><span>Jan 2024 – Sep 2024 [cite: 7]</span></div>
+            <div class="company-header">
+                <span>Titacom Technology Limited</span>
+                <span>Jan 2024 – Sep 2024</span>
+            </div>
+            <p><i>Full Stack Developer</i></p>
             <ul>
-                <li>Built a full Learning Management System with admin and student dashboards[cite: 7].</li>
-                <li>Developed Python desktop apps for attendance tracking and career guidance[cite: 7].</li>
+                <li>Built and deployed a full Learning Management System with website, admin panel, and student dashboard[cite: 7].</li>
+                <li>Developed desktop applications in Python and WxPython for student attendance tracking[cite: 7].</li>
             </ul>
         </div>
+
         <div class="experience-item">
-            <div class="company-header"><span>Titacom Technology | Website Developer</span><span>Apr 2023 – Dec 2023 [cite: 7]</span></div>
+            <div class="company-header">
+                <span>Titacom Technology Limited</span>
+                <span>Apr 2023 – Dec 2023</span>
+            </div>
+            <p><i>Website Developer</i></p>
             <ul>
-                <li>Built a real estate platform with agent profiles, listings, and automated chatbot[cite: 7].</li>
-                <li>Implemented secure PHP/MySQL backend and managed production databases[cite: 7].</li>
+                <li>Built a real estate platform with admin panel, agent profiles, and automated chatbot[cite: 7].</li>
+                <li>Implemented secure PHP and MySQL backend; hosted and configured production database environment[cite: 7].</li>
             </ul>
         </div>
     </section>
 
     <section>
-        <h2>Technical Skills</h2>
-        <div class="skills-list">
-            <strong>AI & ML:</strong> TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Deep Learning, Model Optimization[cite: 7].<br>
-            <strong>Dev & Ops:</strong> Python, PHP, JavaScript, FastAPI, Docker, MySQL, Firebase, API Development, Web Scraping[cite: 7].
-        </div>
+        <h2>TECHNICAL SKILLS [cite: 7]</h2>
+        <p>
+            <strong>AI & ML:</strong> TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Deep Learning, Model Training[cite: 7].<br>
+            <strong>Engineering:</strong> FastAPI, Docker, Jupyter, Data Pipelines, API Development, Web Scraping, Database Management[cite: 7].<br>
+            <strong>Development:</strong> Python, PHP, JavaScript, HTML/CSS, MySQL, Firebase, Yii Framework, WxPython, Cordova[cite: 7].
+        </p>
     </section>
 
     <section>
-        <div style="display: flex; justify-content: space-between;">
-            <div style="width: 48%;">
-                <h2>Education</h2>
-                <p><strong>Lagos State University</strong> | BASc Computer Science [cite: 7]<br>
-                Nov 2024 – Aug 2028 | CGPA: 4.65/5.0 [cite: 7]</p>
-            </div>
-            <div style="width: 48%;">
-                <h2>Certifications</h2>
-                <ul style="margin: 0; padding-left: 15px; font-size: 11px;">
-                    <li>Certified Associate/Entry Python Programmer (CAPP/CEPP) [cite: 7, 14]</li>
-                    <li>Mobile Application/PHP/Python Developer | Bincom [cite: 7, 16, 17]</li>
-                </ul>
-            </div>
+        <h2>EDUCATION [cite: 7]</h2>
+        <div class="company-header">
+            <span>Lagos State University [cite: 7]</span>
+            <span>Nov 2024 – Aug 2028 [cite: 7]</span>
         </div>
+        <p>Bachelor of Applied Science, Computer Science (In Progress) | CGPA: 4.65/5.0 [cite: 7]</p>
+    </section>
+
+    <section>
+        <h2>CERTIFICATIONS [cite: 7]</h2>
+        <p style="font-size: 11px;">
+            CAPP (Associate Python) [cite: 7] | CEPP (Entry Python) [cite: 14] | Advanced Web Developer [cite: 15] | Mobile Application Developer [cite: 7] | Python Developer [cite: 17] | PHP Developer [cite: 16]
+        </p>
     </section>
 
 </body>
