@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joshua Chukwurah!
+# 👋 Hi, I'm Joshua Chukwurah.
 
 I'm a Computer Scientist and Software Engineer based in Lagos State, Nigeria, focused on building full stack applications, backend systems, and applied machine learning solutions.
 
