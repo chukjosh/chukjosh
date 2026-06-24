@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Joshua Chukwurah!
 
-I'm a **Computer Scientist | AI & ML Software Engineer** based in Lagos State, Nigeria.
+I'm a Computer Scientist and Software Engineer based in Lagos State, Nigeria, focused on building full stack applications, backend systems, and applied machine learning solutions.
 
-With experience in **AI/ML Engineering, Full Stack Development, Web, Mobile and Desktop App Development**, I strive to build innovative solutions that help individuals, businesses, and companies grow. I've worked on projects in education, real estate, B2B/B2C, finance, healthcare and spiritual community platforms.
+With experience in software engineering, AI and ML engineering, full stack development, web, mobile, and desktop app development, I strive to build innovative solutions that help individuals, businesses, and companies grow. I've worked on projects in education, real estate, B2B and B2C platforms, finance, healthcare, and spiritual community platforms.
 
-Let's collaborate and bring your ideas to life!
+My work combines software engineering with applied machine learning where needed, building intelligent features such as language models, data driven components, and experimental AI systems integrated into practical applications.
 
-[LinkedIn](https://linkedin.com/in/joshua-chukwurah) • [GitHub](https://github.com/chukjosh) • [Email](mailto:chukjosh07@gmail.com)
+Committed to the tech space through relentless learning and hands-on experience, I am eager to contribute innovative solutions to the tech landscape and ready for new challenges while always expanding my knowledge.
+
+Let's collaborate and bring your ideas to life.
+
+[LinkedIn](https://linkedin.com/in/joshuachukwurah) • [GitHub](https://github.com/chukjosh) • [Email](mailto:chukjosh07@gmail.com)
 
 ---
 
