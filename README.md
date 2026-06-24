@@ -54,5 +54,3 @@ Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Swagger �
 - 🐙 GitHub: [@chukjosh](https://github.com/chukjosh)
 
 ---
-
-*__Committed to the tech space through relentless learning and hands-on experience. Ready for new challenges and always excited to expand my knowledge.__*
