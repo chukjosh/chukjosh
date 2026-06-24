@@ -50,7 +50,6 @@ Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Swagger �
 ## 📫 Let's Connect!
 
 - 📧 Email: chukjosh07@gmail.com
-- 💼 LinkedIn: [joshua-chukwurah](https://linkedin.com/in/joshua-chukwurah)
+- 💼 LinkedIn: [joshuachukwurah](https://linkedin.com/in/joshuachukwurah)
 - 🐙 GitHub: [@chukjosh](https://github.com/chukjosh)
 
----
