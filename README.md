@@ -10,7 +10,7 @@ Committed to the tech space through relentless learning and hands-on experience,
 
 Let's collaborate and bring your ideas to life.
 
-[LinkedIn](https://linkedin.com/in/joshuachukwurah) • [GitHub](https://github.com/chukjosh) • [Email](mailto:chukjosh07@gmail.com)
+[GitHub](https://github.com/chukjosh) • [LinkedIn](https://linkedin.com/in/joshuachukwurah) • [Email](mailto:chukjosh07@gmail.com)
 
 ---
 
@@ -53,7 +53,6 @@ Docker • Kubernetes • Jenkins • Nginx • Apache • Postman • Swagger �
 
 ## 📫 Let's Connect!
 
-- 📧 Email: chukjosh07@gmail.com
-- 💼 LinkedIn: [joshuachukwurah](https://linkedin.com/in/joshuachukwurah)
 - 🐙 GitHub: [@chukjosh](https://github.com/chukjosh)
-
+- 💼 LinkedIn: [joshuachukwurah](https://linkedin.com/in/joshuachukwurah)
+- 📧 Email: chukjosh07@gmail.com
